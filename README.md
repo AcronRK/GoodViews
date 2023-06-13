@@ -1,5 +1,5 @@
 # GoodViews
-This the Backend for [GoodViews](https://github.com/AcronRK/GoodViews-UI) Test Project. It serves as a platform for movie enthusiasts to browse, search, and comment on movies. 
+This the Backend for [GoodViews](https://github.com/AcronRK/GoodViews-UI) Learning Project. It serves as a platform for movie enthusiasts to browse, search, and comment on movies. 
 
 ## Features
 
